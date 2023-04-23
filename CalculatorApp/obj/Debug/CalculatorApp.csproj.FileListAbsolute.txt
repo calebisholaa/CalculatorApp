@@ -1,0 +1,12 @@
+C:\Users\caleb\source\repos\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.exe.config
+C:\Users\caleb\source\repos\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.exe
+C:\Users\caleb\source\repos\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.pdb
+C:\Users\caleb\source\repos\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csproj.AssemblyReference.cache
+C:\Users\caleb\source\repos\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\caleb\source\repos\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.CalculatorForm1.resources
+C:\Users\caleb\source\repos\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csproj.GenerateResource.cache
+C:\Users\caleb\source\repos\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csproj.CoreCompileInputs.cache
+C:\Users\caleb\source\repos\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.exe
+C:\Users\caleb\source\repos\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.pdb
+C:\Users\caleb\source\repos\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.Properties.Resources.resources
+C:\Users\caleb\source\repos\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.SplashScreen.resources
